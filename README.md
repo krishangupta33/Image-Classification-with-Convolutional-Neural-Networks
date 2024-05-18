@@ -214,6 +214,6 @@ The project demonstrates the effectiveness of CNNs for image classification task
 
 [2] [Residual Networks and Skip Connections (DL 15) by Professor Bryce](https://www.youtube.com/watch?v=Q1JCrG1bJ-A)
 
-![Resnet](ResNEt.png)
+![Resnet](ResNet.png)
 
 
